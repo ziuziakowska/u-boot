@@ -1,4 +1,6 @@
 # u-boot
 U-Boot with CHERI support
 
-Codasip's U-boot version with CHERI-RISCV support can be checked out from the latest codasip-cheri-riscv-x.y branch.
+Driver development work for [Mocha](https://github.com/lowRISC/mocha) is on the [[mocha-devel](https://github.com/ziuziakowska/u-boot/tree/mocha-devel)] branch.
+
+Upstream is on the [[codasip-cheri-riscv-2026.01](https://github.com/CHERI-Alliance/u-boot/tree/codasip-cheri-riscv-2026.01)] branch.
